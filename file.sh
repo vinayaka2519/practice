@@ -1,3 +1,3 @@
 #!/bin/bash/
 
-echo"Hello guys elcome to gitlabs"
+echo"Hello guys elcome to gitlabsi"  
